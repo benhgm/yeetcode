@@ -1,2 +1,2 @@
-# yeetcode
+# Yeetcode
 Repository for leetcode submissions
